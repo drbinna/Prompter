@@ -40,4 +40,4 @@ Record five seconds with the prompter on top of what you're recording, then open
 
 Scripts are Markdown files in `scripts/`. The prompter understands a small subset: `#` headings, `**Say:**` lines (shown bright, the words you speak), `**Type:**` and `**Do:**` lines (shown in monospace, what you do on screen), `- ` bullets, and ``` fenced code. Edit in any text editor; relaunch to reload.
 
-`scripts/insertion-sort.md` is the script for the insertion sort video that goes with [Card in Hand](https://github.com/drbinna/Insertion_sort).
+`scripts/insertion-sort.md` is the script for the insertion sort video that goes with [Card in Hand](https://github.com/drbinna/Insertion_sort). `scripts/variables.md` is the script for *Variables, Line by Line*.
